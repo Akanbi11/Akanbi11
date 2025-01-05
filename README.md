@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**Akanbi11/Akanbi11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Hi, I’m Abdulhafeez Akanbi
+🌐 Passionate about crafting modern UI websites with a focus on responsiveness and usability.
+🛠️ Currently improving my skills in JavaScript and exploring ways to enhance web development workflows.
+🤝 Eager to collaborate on projects that involve building user-friendly and visually appealing websites.
+🚀 My long-term goal is to transition into app development, combining aesthetics with functionality.
+🛠️ Tech Stack
+Frontend Development: 🖍️ HTML, 🎨 CSS, 🌟 Tailwind CSS, 📜 JavaScript
+Tools: 🗂️ Git, 🖥️ Visual Studio Code, 🎨 Figma
+📫 How to reach me
+📧 Email: akanbiabdulhafeez@gmail.com
+🔗 LinkedIn: Akanbi11
